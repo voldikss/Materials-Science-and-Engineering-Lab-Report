@@ -127,7 +127,6 @@ INPUT /usr/share/texmf/tex/latex/tipa/t3cmr.fd
 INPUT /usr/share/texmf/tex/latex/tipa/t3cmr.fd
 INPUT doc.toc
 INPUT doc.toc
-OUTPUT doc.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
@@ -137,6 +136,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+OUTPUT doc.toc
 INPUT cuihuoquxian.jpg
 INPUT zhenghuo.jpg
 INPUT bantiaomashiti.jpg
@@ -147,3 +147,8 @@ INPUT cct20.jpg
 INPUT 20waterguang.jpg
 INPUT 20waterdian.jpg
 INPUT 20oilguang.jpg
+INPUT 20oildian.jpg
+INPUT cct42.jpg
+INPUT 10guang.jpg
+INPUT 10dian.jpg
+INPUT doc.aux
